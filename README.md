@@ -1,5 +1,7 @@
 # WellNessZ-Assignment
 
+NOTE* Install node modules
+
 url : https://localhost:3000
 {
   route -> url/api/register
